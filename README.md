@@ -1,2 +1,2 @@
 # TDState
-TD Design Pattern State du cours de POA
+TD Design Pattern fr.miage.paris10.tdstate.MState du cours de POA
